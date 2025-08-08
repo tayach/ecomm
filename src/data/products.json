@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Running Shoes",
+    "price": 90,
+    "category": "clothing",
+    "description": "Lightweight running shoes for everyday training.",
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/200?text=Shoes"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 599,
+    "category": "electronics",
+    "description": "Latest generation smartphone with high-resolution display.",
+    "rating": 4.8,
+    "image": "https://via.placeholder.com/200?text=Phone"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 199,
+    "category": "electronics",
+    "description": "Noise-cancelling over-ear headphones.",
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/200?text=Headphones"
+  },
+  {
+    "id": 4,
+    "name": "Coffee Maker",
+    "price": 85,
+    "category": "home",
+    "description": "Compact coffee maker with auto shut-off.",
+    "rating": 4.0,
+    "image": "https://via.placeholder.com/200?text=Coffee+Maker"
+  },
+  {
+    "id": 5,
+    "name": "Office Chair",
+    "price": 150,
+    "category": "home",
+    "description": "Ergonomic office chair with lumbar support.",
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/200?text=Office+Chair"
+  },
+  {
+    "id": 6,
+    "name": "T-Shirt",
+    "price": 25,
+    "category": "clothing",
+    "description": "Soft cotton t-shirt available in multiple colors.",
+    "rating": 4.1,
+    "image": "https://via.placeholder.com/200?text=T-Shirt"
+  },
+  {
+    "id": 7,
+    "name": "Bluetooth Speaker",
+    "price": 120,
+    "category": "electronics",
+    "description": "Portable Bluetooth speaker with deep bass.",
+    "rating": 4.6,
+    "image": "https://via.placeholder.com/200?text=Speaker"
+  },
+  {
+    "id": 8,
+    "name": "Sneakers",
+    "price": 110,
+    "category": "clothing",
+    "description": "Casual sneakers for everyday wear.",
+    "rating": 4.4,
+    "image": "https://via.placeholder.com/200?text=Sneakers"
+  },
+  {
+    "id": 9,
+    "name": "Microwave Oven",
+    "price": 200,
+    "category": "home",
+    "description": "800W microwave oven with digital controls.",
+    "rating": 4.3,
+    "image": "https://via.placeholder.com/200?text=Microwave"
+  },
+  {
+    "id": 10,
+    "name": "Laptop",
+    "price": 1200,
+    "category": "electronics",
+    "description": "15-inch laptop with 16GB RAM and SSD storage.",
+    "rating": 4.7,
+    "image": "https://via.placeholder.com/200?text=Laptop"
+  }
+]
